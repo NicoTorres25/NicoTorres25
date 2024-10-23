@@ -12,5 +12,4 @@ I'm a software engineering student at **Universidad ORT Uruguay** and developer 
 - **Tavern Tycoon**: Management game in Unity.
 
 ## Connect:
-- [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/nicol%C3%A1s-torres-380982230/))
 - [Email](mailto:nicolastorres250@gmail.com)
